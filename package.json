@@ -3,5 +3,24 @@
     "cors": "^2.8.5",
     "dotenv": "^16.0.0",
     "express": "^4.17.2"
-  }
+  },
+  "scripts": {
+    "start": "server.js"
+  },
+  "name": "budget-app-backend",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/builderBillz/budget-app-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/builderBillz/budget-app-backend/issues"
+  },
+  "homepage": "https://github.com/builderBillz/budget-app-backend#readme",
+  "description": ""
 }
