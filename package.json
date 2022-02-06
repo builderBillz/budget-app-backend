@@ -5,7 +5,7 @@
     "express": "^4.17.2"
   },
   "scripts": {
-    "start": "server.js"
+    "start": "node server.js"
   },
   "name": "budget-app-backend",
   "version": "1.0.0",
